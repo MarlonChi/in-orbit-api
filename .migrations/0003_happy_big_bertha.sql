@@ -1,1 +1,0 @@
-ALTER TABLE "goals" ALTER COLUMN "desired_weekly_frequency" SET DATA TYPE integer;

@@ -5,29 +5,8 @@
     {
       "idx": 0,
       "version": "7",
-      "when": 1725930992307,
-      "tag": "0000_fantastic_black_bolt",
-      "breakpoints": true
-    },
-    {
-      "idx": 1,
-      "version": "7",
-      "when": 1725931207013,
-      "tag": "0001_wandering_famine",
-      "breakpoints": true
-    },
-    {
-      "idx": 2,
-      "version": "7",
-      "when": 1725931233955,
-      "tag": "0002_windy_brother_voodoo",
-      "breakpoints": true
-    },
-    {
-      "idx": 3,
-      "version": "7",
-      "when": 1725986296741,
-      "tag": "0003_happy_big_bertha",
+      "when": 1726269102325,
+      "tag": "0000_charming_peter_parker",
       "breakpoints": true
     }
   ]
