@@ -33,7 +33,11 @@ POST -> /goals (Cria uma nova meta)
 Requisitos: 
 - Docker
 
-``` docker compose up ```
-``` npx drizzle-kit generate ```
-``` npx drizzle-kit migrate ```
-``` npm run dev ```
+``` sh
+docker compose up 
+npx drizzle-kit generate 
+npx drizzle-kit migrate 
+npm install
+npm run dev 
+
+```
